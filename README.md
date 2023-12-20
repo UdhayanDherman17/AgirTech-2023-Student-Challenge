@@ -7,3 +7,5 @@ So, why is Canada producing so little Lettuce? We have massive greenhouse farms 
 Therefore, I will be designing a robot that uses computer vision and Mechacatronics aspects to plant lettuce at a faster rate and with cheaper technology allowing these companies to grow at a faster rate when using our technology.
 
 Time Allocated (1.5 months)
+
+![](Host-Image/image)  ![](Host-Image/image1)
