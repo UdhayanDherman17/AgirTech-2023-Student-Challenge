@@ -8,4 +8,4 @@ Therefore, I will be designing a robot that uses computer vision and Mechacatron
 
 Time Allocated (1.5 months)
 
-![](Host-Images/image.png)
+![](Host-Images/image.png)      ![](Host-Images/image1.png)
